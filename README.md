@@ -1,1 +1,1 @@
-# -An-AI-Enabled-Social-Distancing-DetectionTool
+# An-AI-Enabled-Social-Distancing-DetectionTool
